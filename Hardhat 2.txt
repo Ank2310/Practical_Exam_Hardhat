@@ -1,0 +1,9 @@
+2) Demonstrate the steps involved in the process of
+deploying your smart contract to a live network.
+
+- First, we need to setup environment
+- Creating a new Hardhat project
+- Then,Writing and compling smart contracts
+- After that we can test the smart contracts and if we find any error
+- Then debug with Hardhat network
+- And, if everthing is ok then deploy the contarct on live network.
